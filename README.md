@@ -1,4 +1,5 @@
 Dear Employer,
+
 Thank you for taking the time to read this letter.
 
 I am a graphic designer who has had a dream of being a developer for a long time, I got the opportunity to complete an intensive 3-month coding bootcamp through Craft Academy Sweden via their online real-time immersive teaching program. 
@@ -14,4 +15,5 @@ In life, it is never too late or too old to find your working passion and am ver
 I am really grateful for you taking the time to read this letter and would love to hear from you. I have enclosed my resume and look forward to meeting. You can my review my Github account at https://github.com/lollypop27.
 
 Sincerely,
+
 Lara Templemore-Walters
